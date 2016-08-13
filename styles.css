@@ -1,0 +1,29 @@
+/* add your CSS here */
+.specs{
+	padding: 0px;
+}
+
+.specs li{
+list-style: none;
+}
+.specs span{
+	font-weight: bold;
+}
+
+.animal-facts{
+	border: 1px solid #ccc;
+	padding: 10px;
+	width: 350px;
+	box-shadow: 5px 5px 5px 2px #ddd ;
+	font-family: Arial sans-serif;
+}
+.facts{
+	font-style: italic;
+
+}
+.description{
+	border: 1px solid #ccc;
+	width: 290px;
+	font-size: 15px;
+	padding: 5px;
+}
